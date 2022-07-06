@@ -11,7 +11,9 @@
 ### Pestaña:Datos basicos
 - Nos aseguramos de que la suscripción es de tipo 'student'.
 - Grupo de recursos: lab02.
+
 *Detalles de instancia*
+
 - Nombre de la aplicación lógica: lab06dr.
 - Publicar: Flujo de trabajo.
 - Región: East US.
