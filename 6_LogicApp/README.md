@@ -116,7 +116,7 @@ Ahora solo nos toca verificar en nuestra hoja de calculo las actualizaciones, en
 ![23](https://user-images.githubusercontent.com/99112892/177497205-52899907-dc37-44ae-a220-79839e6f0822.png)
 
 ## Paso 7
--Eliminamos el grupo de recursos, a su vez eliminara las conexiones con twitter, googleShets, etc.
+- Eliminamos el grupo de recursos, a su vez eliminara las conexiones con twitter, googleShets, etc.
 
 ![24](https://user-images.githubusercontent.com/99112892/177497281-1b19a86b-a19b-43f3-9477-497702bd3620.png)
 
