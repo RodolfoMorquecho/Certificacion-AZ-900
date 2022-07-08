@@ -1,4 +1,4 @@
-# Azure IoT Hub (Ionternet of Things)
+# Azure IoT Hub (Internet of Things)
 
 Nos dirigimos al portal de [Azure](https://portal.azure.com/#home)
 
