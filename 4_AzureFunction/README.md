@@ -1,4 +1,4 @@
-Function
+# AZ900-Functions
 
 Es una fracción de codigo que permite ejecutar acciones, cumplir con peticiones para traer cosas de internet, etc. Se denominan como serverless.
 
