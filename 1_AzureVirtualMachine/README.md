@@ -2,7 +2,7 @@
 
 Guía para crear un recurso y configurarlo para utilizar una Máquina virtual dentro de Azure.
 
-Lo primero que debemo hacer, es dirigirnos al portal de [Azure](https://portal.azure.com/#home)
+Lo primero que debemos hacer, es dirigirnos al portal de [Azure](https://portal.azure.com/#home)
 
 ## Paso 1
 En el menu seleccionamos la opcion "todos los servicios".
