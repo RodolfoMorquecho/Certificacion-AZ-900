@@ -111,7 +111,7 @@ Como su nombre lo dice ya que configuramos las caracteristicas y requerimientos 
 ![7](https://user-images.githubusercontent.com/99112892/183573981-0398d179-09f5-40bb-9ad8-fef51b376711.png)
 
 ## Paso 8
--Volvera a salir una ventana emergente donde preguntara si nos queremos conectar, ya que es la primera vez que lo hacemos, le diremos que 'si'.
+- Volvera a salir una ventana emergente donde preguntara si nos queremos conectar, ya que es la primera vez que lo hacemos, le diremos que 'si'.
 
 ![8](https://user-images.githubusercontent.com/99112892/183574107-78ad637d-c43b-48c6-84b4-892936a30741.png)
 
